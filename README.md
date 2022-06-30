@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RagulVasudevan
 - 👀 I'm very much interested in Blockchain, QA engineering, RPA and Product management
-- 🌱 I’m currently writing smart contracts using Solidity 
+- 🌱 I’m currently writing smart contracts using Solidity and building Dapps
 
 Currently working in a web 2.0 organization with working experience in RPA development (uipath,nintex) and extended experience in automation test engineering (selenium - java framework, performance testing - jmeter ,api and end -to-end testing).
 
