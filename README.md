@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @RagulVasudevan
 - 👀 I'm very much interested in Blockchain, QA engineering, RPA and Product management
-- 🌱 I’m currently writing smart contracts using Solidity and building Dapps
+- 🌱 I’m currently writing building Dapps
 
-Currently working in a web 2.0 organization with working experience in RPA development (uipath,nintex) and extended experience in automation test engineering (selenium - java framework, performance testing - jmeter ,api and end -to-end testing).
-
-I am also very much interested in finance and blockchain , so i have started my transitioning process into web 3.0 , I know solidity programming (web3.js, NFT, smart contracts ,hardhat, truffle, ganache) and and focusing to become a blockchain developer and blockchain test engineer.(since i have QA experience i want to inculpate that as well in blockchain).
+I am Ragul Vasudevan. I have been fascinated by technology since my childhood. My tech journey started from dismantling and assembling a computer cabinet to winning a national level hackathon competition. I always believe technology is like a two edged sword if we use it right we can make wonders with it , so I started to deep dive more into it from my early college days by participating in several paper presentations , workshops and project presentations. I have worked as an intern for several different companies from diversified domains such as Ed-tech, SaaS, D2C and social apps. I have full time professional work experience in fields like RPA - built chatbots , application processes for banking firms , Quality engineer - automation testing framework, performance testing and api testing. Currently working as a Blockchain QA Engineer I am very much excited to work in this blockchain industry as it is growing at a rapid pace and I want to create a product / be a part of a product team where we onboard the next billion users . I have a strong product knowledge since I have worked as a Blockchain QA engineer. I always tend to find flaws in any product and always focus on attention to detail and value-added features which can be actually useful to users . I have experience as a Blockchain product manager as freelance, I have worked in different projects such as Defi , NFT gaming , Non custodial wallet , Blockchain as a Service , CeFi and authentication protocols . I am an active learner in the blockchain space and have participated in several hackathons conducted by Eth global , Solana , Chainlink , Buildspace.  My go-to motto is " with technology we can achieve the unimaginable " .
 
 
 
